@@ -1,0 +1,12 @@
+{
+  "pushConfig": {
+    "deviceType": "android",
+    "pushToken": "eJtqNuddTqG2cqHhW_tBGh:APA91bE4aY8wwMP-cPFxkWGIMOWPAWWmSAlfh7Syvfg5Z73eoQRyMypZ8L3QG1ceKUHmDKLaRmgu9RMU88CcNQAbHz-dXUpVNggiRCgD57gm79JGG8ObYL8_sBQI6h3uJ9MuBMAWk8rZ",
+    "silent": false,
+    "priority": "high",
+    "pushType": "alert",
+    "title": "New Themes Available",
+    "body": "Tap this notification to open the New Themes in the app",
+    "pushBody": { "vin": "FAKEVINCADLCLYRIQ", "routeTo": "ShopThemes" }
+  }
+}
